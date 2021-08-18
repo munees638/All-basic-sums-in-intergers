@@ -1,1 +1,1 @@
-# All basic sums in munbers in java
+# All basic sums in numbers in java
